@@ -1,6 +1,22 @@
 {
   "dependencies": {
-    "colors": "^1.4.0",
-    "http-server": "^14.0.0"
-  }
+    "colors": "^1.4.0"
+  },
+  "name": "louinux-meme-ory",
+  "version": "1.0.0",
+  "description": "a memory game based on memes ¯\\(ツ)\\/¯",
+  "main": "\\",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "scripts": {
+    "test": "\\"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/\\/TP_Web_Dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": "true"
 }
