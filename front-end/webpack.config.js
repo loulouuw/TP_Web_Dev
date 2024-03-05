@@ -19,6 +19,10 @@ module.exports = {
     minimize: false,
   },
   module: {
-    rules: [],
+    rules: [
+      /*{ 
+        use: ["style-loader", "css-loader"],
+      }, */
+    ],
   },
 };
