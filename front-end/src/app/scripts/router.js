@@ -29,8 +29,6 @@
       this._onLocationChanged(event.newURL)
     );
   }
-  // TODO #export-router: remove this assignation
-  //window.Router = Router;
 
   /**
    * Bind a component ot be displayed when the registered URL is reached.
