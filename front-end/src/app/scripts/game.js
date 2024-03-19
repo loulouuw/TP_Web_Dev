@@ -37,21 +37,20 @@ let CARD_TEMPLATE = ""
             this._boardElement = document.querySelector(".cards");
             // create cards out of the config
             this._cards = [];
-            // TODO #functional-programming: use Array.map() instead.
-            for (let i in this._config.ids) {
-              this._cards[i] = new CardComponent(this._config.ids[i]);
-            }
-            // TODO #functional-programming: use Array.forEach() instead.
-            for (let i in this._cards) {
-              let card = this._cards[i];
+            this._cards = Object.entries(this._config.ids)
+            .reduce((cards, [key, value]) => {
+              cards[key] = new CardComponent(value);
+              return cards;
+            }, {});          
+            for (const card of Object.values(this._cards)) {
               this._boardElement.appendChild(card.getElement());
-            card.getElement().addEventListener(
-              "click",
-              () => {
-                this._flipCard(card);
-              }
-            );
-            }
+              card.getElement().addEventListener(
+                "click",
+                () => {
+                  this._flipCard(card);
+                }
+              );
+            }            
             this.start();
           }
         );
