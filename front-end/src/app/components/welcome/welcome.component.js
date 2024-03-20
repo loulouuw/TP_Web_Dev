@@ -1,6 +1,6 @@
-import template from "/src/app/views/welcome.html";
-import { parseUrl } from "./utils";
-import { Component } from "./component";
+import template from "/src/app/components/welcome/welcome.component.html";
+import "./welcome.component.css";
+import { Component } from "../../scripts/component";
   /* class WelcomeComponent constructor  */
   export class WelcomeComponent extends Component {
     constructor(){
