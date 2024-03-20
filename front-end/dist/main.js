@@ -2,41 +2,41 @@
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
 
-/***/ 923:
+/***/ 4923:
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(601);
+/* harmony import */ var _css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1601);
 /* harmony import */ var _css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(314);
+/* harmony import */ var _css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6314);
 /* harmony import */ var _css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
-/* harmony import */ var _css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(417);
+/* harmony import */ var _css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(4417);
 /* harmony import */ var _css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__);
 // Imports
 
 
 
-var ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(531), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_1___ = new URL(/* asset import */ __webpack_require__(115), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_2___ = new URL(/* asset import */ __webpack_require__(800), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_3___ = new URL(/* asset import */ __webpack_require__(766), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_4___ = new URL(/* asset import */ __webpack_require__(274), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_5___ = new URL(/* asset import */ __webpack_require__(154), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_6___ = new URL(/* asset import */ __webpack_require__(782), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_7___ = new URL(/* asset import */ __webpack_require__(718), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_8___ = new URL(/* asset import */ __webpack_require__(734), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_9___ = new URL(/* asset import */ __webpack_require__(487), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_10___ = new URL(/* asset import */ __webpack_require__(372), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_11___ = new URL(/* asset import */ __webpack_require__(247), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_12___ = new URL(/* asset import */ __webpack_require__(366), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_13___ = new URL(/* asset import */ __webpack_require__(326), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_14___ = new URL(/* asset import */ __webpack_require__(210), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_15___ = new URL(/* asset import */ __webpack_require__(690), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_16___ = new URL(/* asset import */ __webpack_require__(249), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_17___ = new URL(/* asset import */ __webpack_require__(932), __webpack_require__.b);
-var ___CSS_LOADER_URL_IMPORT_18___ = new URL(/* asset import */ __webpack_require__(144), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(5531), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_1___ = new URL(/* asset import */ __webpack_require__(7115), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_2___ = new URL(/* asset import */ __webpack_require__(5419), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_3___ = new URL(/* asset import */ __webpack_require__(3385), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_4___ = new URL(/* asset import */ __webpack_require__(4274), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_5___ = new URL(/* asset import */ __webpack_require__(7154), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_6___ = new URL(/* asset import */ __webpack_require__(5782), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_7___ = new URL(/* asset import */ __webpack_require__(4718), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_8___ = new URL(/* asset import */ __webpack_require__(8734), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_9___ = new URL(/* asset import */ __webpack_require__(8487), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_10___ = new URL(/* asset import */ __webpack_require__(5372), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_11___ = new URL(/* asset import */ __webpack_require__(2247), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_12___ = new URL(/* asset import */ __webpack_require__(6366), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_13___ = new URL(/* asset import */ __webpack_require__(7326), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_14___ = new URL(/* asset import */ __webpack_require__(7210), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_15___ = new URL(/* asset import */ __webpack_require__(6690), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_16___ = new URL(/* asset import */ __webpack_require__(7249), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_17___ = new URL(/* asset import */ __webpack_require__(5932), __webpack_require__.b);
+var ___CSS_LOADER_URL_IMPORT_18___ = new URL(/* asset import */ __webpack_require__(1144), __webpack_require__.b);
 var ___CSS_LOADER_EXPORT___ = _css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
 var ___CSS_LOADER_URL_REPLACEMENT_0___ = _css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_0___);
 var ___CSS_LOADER_URL_REPLACEMENT_1___ = _css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_1___);
@@ -12119,15 +12119,37 @@ textarea.form-control-lg {
 
 /***/ }),
 
-/***/ 779:
+/***/ 3120:
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
-/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(601);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1601);
 /* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
-/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(314);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6314);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
+// Imports
+
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
+// Module
+___CSS_LOADER_EXPORT___.push([module.id, ``, ""]);
+// Exports
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
+
+
+/***/ }),
+
+/***/ 1819:
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1601);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6314);
 /* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
 // Imports
 
@@ -12138,179 +12160,449 @@ ___CSS_LOADER_EXPORT___.push([module.id, `/*****
  * GLOBAL STYLE
  */
 
-body {
-  display: flex;
-  flex-flow: column nowrap;
-  background-color: #f5f5f5;
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  overflow: hidden;
-}
-
-.navbar-brand img {
-  height: 50px;
-}
-
-body > main {
-  overflow: auto;
-}
-
-/* global style */
-.bg-primary {
-  background-color: #cb2468 !important;
-}
-
-.btn-outline-primary {
-  border-color: #cb2468;
-  color: #cb2468;
-}
-
-.btn-outline-primary:hover {
-  border-color: #cb2468;
-  background-color: #cb2468;
-  color: white;
-}
-
-.form-control:hover,
-.form-control:focus {
-  box-shadow: 0 0 0 0.25rem #cb246822;
-  border-color: #cb2468;
-}
-.bg-dark * {
-  color: #fcfcfc;
-}
-
-/*****
- * Welcome Component
- */
-
-/* welcome { ... } */
-.welcome-cmp .form-group.has-error .form-text.text-muted {
-  display: none;
-}
-
-.welcome-cmp .form-signin {
-  width: 100%;
-  max-width: 480px;
-  padding: 15px;
-  margin: auto;
-}
-
-/*****
- * Game Component
- */
-
-.game-cmp .cards {
-  display: grid;
-
-  grid-template-columns: repeat(auto-fill, minmax(calc(12% - 1rem), 100px));
-  grid-auto-flow: row dense;
-  grid-row-gap: 1em;
-  grid-column-gap: 1em;
-}
-
+ body {
+    display: flex;
+    flex-flow: column nowrap;
+    background-color: #f5f5f5;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  
+  .navbar-brand img {
+    height: 50px;
+  }
+  
+  body > main {
+    overflow: auto;
+  }
+  
+  /* global style */
+  .bg-primary {
+    background-color: #cb2468 !important;
+  }
+  
+  .btn-outline-primary {
+    border-color: #cb2468;
+    color: #cb2468;
+  }
+  
+  .btn-outline-primary:hover {
+    border-color: #cb2468;
+    background-color: #cb2468;
+    color: white;
+  }
+  
+  .form-control:hover,
+  .form-control:focus {
+    box-shadow: 0 0 0 0.25rem #cb246822;
+    border-color: #cb2468;
+  }
+  .bg-dark * {
+    color: #fcfcfc;
+  }
+  
 /*****
  * Card Component
  */
 
 /* card { ... } */
 .card-cmp {
-  position: relative;
-  display: inline-block !important;
-}
-
-.card-cmp .card-wrapper {
-  position: relative;
-  transform-style: preserve-3d;
-  transition: all 0.5s;
-}
-
-.card-cmp .card-wrapper:hover {
-  cursor: pointer;
-}
-
-.card-cmp .card-wrapper:active {
-  transform: scale(0.97);
-  transition: transform 0.2s;
-}
-
-.card-cmp .card-wrapper .front-face,
-.card-cmp .card-wrapper .back-face {
-  width: 100%;
-  backface-visibility: hidden;
-  box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
-}
-
-.card-cmp .card-wrapper .front-face {
-  transform: rotateY(180deg);
-}
-
-.card-cmp .card-wrapper .back-face {
-  position: absolute;
-  top: 0;
-}
-
-.card-cmp .card-wrapper.flip {
-  transform: rotateY(180deg);
-}
-
-/*****
- * Score Component
- */
-
-/* score { ... } */
-.score-cmp img.happy:hover {
-  /* Start the shake animation and make the animation last for 0.5 seconds */
-  animation: shake 0.5s;
-
-  /* When the animation is finished, start again */
-  animation-iteration-count: infinite;
-}
-
-@keyframes shake {
-  0% {
-    transform: translate(1px, 1px) rotate(0deg);
+    position: relative;
+    display: inline-block !important;
   }
-  10% {
-    transform: translate(-1px, -2px) rotate(-3deg);
+  
+  .card-cmp .card-wrapper {
+    position: relative;
+    transform-style: preserve-3d;
+    transition: all 0.5s;
   }
-  20% {
-    transform: translate(-3px, 0px) rotate(3deg);
+  
+  .card-cmp .card-wrapper:hover {
+    cursor: pointer;
   }
-  30% {
-    transform: translate(3px, 2px) rotate(0deg);
+  
+  .card-cmp .card-wrapper:active {
+    transform: scale(0.97);
+    transition: transform 0.2s;
   }
-  40% {
-    transform: translate(1px, -1px) rotate(3deg);
+  
+  .card-cmp .card-wrapper .front-face,
+  .card-cmp .card-wrapper .back-face {
+    width: 100%;
+    backface-visibility: hidden;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
   }
-  50% {
-    transform: translate(-1px, 2px) rotate(-3deg);
+  
+  .card-cmp .card-wrapper .front-face {
+    transform: rotateY(180deg);
   }
-  60% {
-    transform: translate(-3px, 1px) rotate(0deg);
+  
+  .card-cmp .card-wrapper .back-face {
+    position: absolute;
+    top: 0;
   }
-  70% {
-    transform: translate(3px, 1px) rotate(-3deg);
+  
+  .card-cmp .card-wrapper.flip {
+    transform: rotateY(180deg);
   }
-  80% {
-    transform: translate(-1px, -1px) rotate(1deg);
-  }
-  90% {
-    transform: translate(1px, 2px) rotate(0deg);
-  }
-  100% {
-    transform: translate(1px, -2px) rotate(-3deg);
-  }
-}
-`, ""]);
+  `, ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
 
 /***/ }),
 
-/***/ 314:
+/***/ 8402:
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1601);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6314);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
+// Imports
+
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
+// Module
+___CSS_LOADER_EXPORT___.push([module.id, `/*****
+ * GLOBAL STYLE
+ */
+
+ body {
+    display: flex;
+    flex-flow: column nowrap;
+    background-color: #f5f5f5;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  
+  .navbar-brand img {
+    height: 50px;
+  }
+  
+  body > main {
+    overflow: auto;
+  }
+  
+  /* global style */
+  .bg-primary {
+    background-color: #cb2468 !important;
+  }
+  
+  .btn-outline-primary {
+    border-color: #cb2468;
+    color: #cb2468;
+  }
+  
+  .btn-outline-primary:hover {
+    border-color: #cb2468;
+    background-color: #cb2468;
+    color: white;
+  }
+  
+  .form-control:hover,
+  .form-control:focus {
+    box-shadow: 0 0 0 0.25rem #cb246822;
+    border-color: #cb2468;
+  }
+  .bg-dark * {
+    color: #fcfcfc;
+  }
+  
+  /*****
+ * Game Component
+ */
+
+ .game-cmp .cards {
+    display: grid;
+  
+    grid-template-columns: repeat(auto-fill, minmax(calc(12% - 1rem), 100px));
+    grid-auto-flow: row dense;
+    grid-row-gap: 1em;
+    grid-column-gap: 1em;
+  }`, ""]);
+// Exports
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
+
+
+/***/ }),
+
+/***/ 3254:
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1601);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6314);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
+// Imports
+
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
+// Module
+___CSS_LOADER_EXPORT___.push([module.id, `/*****
+ * GLOBAL STYLE
+ */
+
+ body {
+    display: flex;
+    flex-flow: column nowrap;
+    background-color: #f5f5f5;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  
+  .navbar-brand img {
+    height: 50px;
+  }
+  
+  body > main {
+    overflow: auto;
+  }
+  
+  /* global style */
+  .bg-primary {
+    background-color: #cb2468 !important;
+  }
+  
+  .btn-outline-primary {
+    border-color: #cb2468;
+    color: #cb2468;
+  }
+  
+  .btn-outline-primary:hover {
+    border-color: #cb2468;
+    background-color: #cb2468;
+    color: white;
+  }
+  
+  .form-control:hover,
+  .form-control:focus {
+    box-shadow: 0 0 0 0.25rem #cb246822;
+    border-color: #cb2468;
+  }
+  .bg-dark * {
+    color: #fcfcfc;
+  }
+  `, ""]);
+// Exports
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
+
+
+/***/ }),
+
+/***/ 3128:
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1601);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6314);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
+// Imports
+
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
+// Module
+___CSS_LOADER_EXPORT___.push([module.id, `/*****
+ * GLOBAL STYLE
+ */
+
+ body {
+    display: flex;
+    flex-flow: column nowrap;
+    background-color: #f5f5f5;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  
+  .navbar-brand img {
+    height: 50px;
+  }
+  
+  body > main {
+    overflow: auto;
+  }
+  
+  /* global style */
+  .bg-primary {
+    background-color: #cb2468 !important;
+  }
+  
+  .btn-outline-primary {
+    border-color: #cb2468;
+    color: #cb2468;
+  }
+  
+  .btn-outline-primary:hover {
+    border-color: #cb2468;
+    background-color: #cb2468;
+    color: white;
+  }
+  
+  .form-control:hover,
+  .form-control:focus {
+    box-shadow: 0 0 0 0.25rem #cb246822;
+    border-color: #cb2468;
+  }
+  .bg-dark * {
+    color: #fcfcfc;
+  }
+  
+/*****
+ * Score Component
+ */
+
+/* score { ... } */
+.score-cmp img.happy:hover {
+    /* Start the shake animation and make the animation last for 0.5 seconds */
+    animation: shake 0.5s;
+  
+    /* When the animation is finished, start again */
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes shake {
+    0% {
+      transform: translate(1px, 1px) rotate(0deg);
+    }
+    10% {
+      transform: translate(-1px, -2px) rotate(-3deg);
+    }
+    20% {
+      transform: translate(-3px, 0px) rotate(3deg);
+    }
+    30% {
+      transform: translate(3px, 2px) rotate(0deg);
+    }
+    40% {
+      transform: translate(1px, -1px) rotate(3deg);
+    }
+    50% {
+      transform: translate(-1px, 2px) rotate(-3deg);
+    }
+    60% {
+      transform: translate(-3px, 1px) rotate(0deg);
+    }
+    70% {
+      transform: translate(3px, 1px) rotate(-3deg);
+    }
+    80% {
+      transform: translate(-1px, -1px) rotate(1deg);
+    }
+    90% {
+      transform: translate(1px, 2px) rotate(0deg);
+    }
+    100% {
+      transform: translate(1px, -2px) rotate(-3deg);
+    }
+  }
+  `, ""]);
+// Exports
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
+
+
+/***/ }),
+
+/***/ 8124:
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   A: () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(1601);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(6314);
+/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);
+// Imports
+
+
+var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
+// Module
+___CSS_LOADER_EXPORT___.push([module.id, `/*****
+ * GLOBAL STYLE
+ */
+
+ body {
+    display: flex;
+    flex-flow: column nowrap;
+    background-color: #f5f5f5;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  
+  .navbar-brand img {
+    height: 50px;
+  }
+  
+  body > main {
+    overflow: auto;
+  }
+  
+  /* global style */
+  .bg-primary {
+    background-color: #cb2468 !important;
+  }
+  
+  .btn-outline-primary {
+    border-color: #cb2468;
+    color: #cb2468;
+  }
+  
+  .btn-outline-primary:hover {
+    border-color: #cb2468;
+    background-color: #cb2468;
+    color: white;
+  }
+  
+  .form-control:hover,
+  .form-control:focus {
+    box-shadow: 0 0 0 0.25rem #cb246822;
+    border-color: #cb2468;
+  }
+  .bg-dark * {
+    color: #fcfcfc;
+  }
+  
+  /*****
+ * Welcome Component
+ */
+
+/* welcome { ... } */
+.welcome-cmp .form-group.has-error .form-text.text-muted {
+    display: none;
+  }
+  
+  .welcome-cmp .form-signin {
+    width: 100%;
+    max-width: 480px;
+    padding: 15px;
+    margin: auto;
+  }`, ""]);
+// Exports
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
+
+
+/***/ }),
+
+/***/ 6314:
 /***/ ((module) => {
 
 
@@ -12401,7 +12693,7 @@ module.exports = function (cssWithMappingToString) {
 
 /***/ }),
 
-/***/ 417:
+/***/ 4417:
 /***/ ((module) => {
 
 
@@ -12433,7 +12725,7 @@ module.exports = function (url, options) {
 
 /***/ }),
 
-/***/ 601:
+/***/ 1601:
 /***/ ((module) => {
 
 
@@ -12444,7 +12736,7 @@ module.exports = function (i) {
 
 /***/ }),
 
-/***/ 385:
+/***/ 4385:
 /***/ ((module) => {
 
 
@@ -12472,7 +12764,7 @@ module.exports = function (url, options) {
 
 /***/ }),
 
-/***/ 72:
+/***/ 5072:
 /***/ ((module) => {
 
 
@@ -12562,7 +12854,7 @@ module.exports = function (list, options) {
 
 /***/ }),
 
-/***/ 659:
+/***/ 7659:
 /***/ ((module) => {
 
 
@@ -12618,7 +12910,7 @@ module.exports = insertStyleElement;
 
 /***/ }),
 
-/***/ 56:
+/***/ 5056:
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 
@@ -12634,7 +12926,7 @@ module.exports = setAttributesWithoutAttributes;
 
 /***/ }),
 
-/***/ 825:
+/***/ 7825:
 /***/ ((module) => {
 
 
@@ -12701,7 +12993,7 @@ module.exports = domAPI;
 
 /***/ }),
 
-/***/ 113:
+/***/ 1113:
 /***/ ((module) => {
 
 
@@ -12721,185 +13013,206 @@ module.exports = styleTagTransform;
 
 /***/ }),
 
-/***/ 766:
+/***/ 3385:
 /***/ ((module) => {
 
 module.exports = "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%27-4 -4 8 8%27%3e%3ccircle r=%272%27 fill=%27%23fff%27/%3e%3c/svg%3e";
 
 /***/ }),
 
-/***/ 782:
+/***/ 5782:
 /***/ ((module) => {
 
 module.exports = "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%27-4 -4 8 8%27%3e%3ccircle r=%273%27 fill=%27%2386b7fe%27/%3e%3c/svg%3e";
 
 /***/ }),
 
-/***/ 718:
+/***/ 4718:
 /***/ ((module) => {
 
 module.exports = "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%27-4 -4 8 8%27%3e%3ccircle r=%273%27 fill=%27%23fff%27/%3e%3c/svg%3e";
 
 /***/ }),
 
-/***/ 154:
+/***/ 7154:
 /***/ ((module) => {
 
 module.exports = "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%27-4 -4 8 8%27%3e%3ccircle r=%273%27 fill=%27rgba%280, 0, 0, 0.25%29%27/%3e%3c/svg%3e";
 
 /***/ }),
 
-/***/ 734:
+/***/ 8734:
 /***/ ((module) => {
 
 module.exports = "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%27-4 -4 8 8%27%3e%3ccircle r=%273%27 fill=%27rgba%28255, 255, 255, 0.25%29%27/%3e%3c/svg%3e";
 
 /***/ }),
 
-/***/ 372:
+/***/ 5372:
 /***/ ((module) => {
 
 module.exports = "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 12 12%27 width=%2712%27 height=%2712%27 fill=%27none%27 stroke=%27%23dc3545%27%3e%3ccircle cx=%276%27 cy=%276%27 r=%274.5%27/%3e%3cpath stroke-linejoin=%27round%27 d=%27M5.8 3.6h.4L6 6.5z%27/%3e%3ccircle cx=%276%27 cy=%278.2%27 r=%27.6%27 fill=%27%23dc3545%27 stroke=%27none%27/%3e%3c/svg%3e";
 
 /***/ }),
 
-/***/ 249:
+/***/ 7249:
 /***/ ((module) => {
 
 module.exports = "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 16 16%27 fill=%27%23000%27%3e%3cpath d=%27M.293.293a1 1 0 0 1 1.414 0L8 6.586 14.293.293a1 1 0 1 1 1.414 1.414L9.414 8l6.293 6.293a1 1 0 0 1-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 0 1-1.414-1.414L6.586 8 .293 1.707a1 1 0 0 1 0-1.414z%27/%3e%3c/svg%3e";
 
 /***/ }),
 
-/***/ 690:
+/***/ 6690:
 /***/ ((module) => {
 
 module.exports = "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 16 16%27 fill=%27%236ea8fe%27%3e%3cpath fill-rule=%27evenodd%27 d=%27M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708z%27/%3e%3c/svg%3e";
 
 /***/ }),
 
-/***/ 932:
+/***/ 5932:
 /***/ ((module) => {
 
 module.exports = "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 16 16%27 fill=%27%23fff%27%3e%3cpath d=%27M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z%27/%3e%3c/svg%3e";
 
 /***/ }),
 
-/***/ 144:
+/***/ 1144:
 /***/ ((module) => {
 
 module.exports = "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 16 16%27 fill=%27%23fff%27%3e%3cpath d=%27M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z%27/%3e%3c/svg%3e";
 
 /***/ }),
 
-/***/ 210:
+/***/ 7210:
 /***/ ((module) => {
 
 module.exports = "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 16 16%27 fill=%27none%27 stroke=%27%23052c65%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27%3e%3cpath d=%27M2 5L8 11L14 5%27/%3e%3c/svg%3e";
 
 /***/ }),
 
-/***/ 326:
+/***/ 7326:
 /***/ ((module) => {
 
 module.exports = "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 16 16%27 fill=%27none%27 stroke=%27%23212529%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27%3e%3cpath d=%27M2 5L8 11L14 5%27/%3e%3c/svg%3e";
 
 /***/ }),
 
-/***/ 531:
+/***/ 5531:
 /***/ ((module) => {
 
 module.exports = "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 16 16%27%3e%3cpath fill=%27none%27 stroke=%27%23343a40%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27 stroke-width=%272%27 d=%27m2 5 6 6 6-6%27/%3e%3c/svg%3e";
 
 /***/ }),
 
-/***/ 115:
+/***/ 7115:
 /***/ ((module) => {
 
 module.exports = "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 16 16%27%3e%3cpath fill=%27none%27 stroke=%27%23dee2e6%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27 stroke-width=%272%27 d=%27m2 5 6 6 6-6%27/%3e%3c/svg%3e";
 
 /***/ }),
 
-/***/ 274:
+/***/ 4274:
 /***/ ((module) => {
 
 module.exports = "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 20 20%27%3e%3cpath fill=%27none%27 stroke=%27%23fff%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27 stroke-width=%273%27 d=%27M6 10h8%27/%3e%3c/svg%3e";
 
 /***/ }),
 
-/***/ 800:
+/***/ 5419:
 /***/ ((module) => {
 
 module.exports = "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 20 20%27%3e%3cpath fill=%27none%27 stroke=%27%23fff%27 stroke-linecap=%27round%27 stroke-linejoin=%27round%27 stroke-width=%273%27 d=%27m6 10 3 3 6-6%27/%3e%3c/svg%3e";
 
 /***/ }),
 
-/***/ 366:
+/***/ 6366:
 /***/ ((module) => {
 
 module.exports = "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 30 30%27%3e%3cpath stroke=%27rgba%28255, 255, 255, 0.55%29%27 stroke-linecap=%27round%27 stroke-miterlimit=%2710%27 stroke-width=%272%27 d=%27M4 7h22M4 15h22M4 23h22%27/%3e%3c/svg%3e";
 
 /***/ }),
 
-/***/ 247:
+/***/ 2247:
 /***/ ((module) => {
 
 module.exports = "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 30 30%27%3e%3cpath stroke=%27rgba%2833, 37, 41, 0.75%29%27 stroke-linecap=%27round%27 stroke-miterlimit=%2710%27 stroke-width=%272%27 d=%27M4 7h22M4 15h22M4 23h22%27/%3e%3c/svg%3e";
 
 /***/ }),
 
-/***/ 487:
+/***/ 8487:
 /***/ ((module) => {
 
 module.exports = "data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 8 8%27%3e%3cpath fill=%27%23198754%27 d=%27M2.3 6.73.6 4.53c-.4-1.04.46-1.4 1.1-.8l1.1 1.4 3.4-3.8c.6-.63 1.6-.27 1.2.7l-4 4.6c-.43.5-.8.4-1.1.1z%27/%3e%3c/svg%3e";
 
 /***/ }),
 
-/***/ 977:
+/***/ 7467:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+module.exports = __webpack_require__.p + "ea93a96bd7af7ce865d5.js";
+
+/***/ }),
+
+/***/ 509:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+module.exports = __webpack_require__.p + "5881ebcb1ef6909766d0.js";
+
+/***/ }),
+
+/***/ 4513:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+module.exports = __webpack_require__.p + "d4dc75ee5ca821730bf9.js";
+
+/***/ }),
+
+/***/ 7744:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+module.exports = __webpack_require__.p + "03562bc741af0f92fec9.js";
+
+/***/ }),
+
+/***/ 8977:
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 module.exports = __webpack_require__.p + "863db47ae116668332ee.css";
 
 /***/ }),
 
-/***/ 221:
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-module.exports = __webpack_require__.p + "5a15592bdb6e817f6c43.css";
-
-/***/ }),
-
 /***/ 116:
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "4c16c1f62e89ff6409e0.js";
+module.exports = __webpack_require__.p + "5332c56804c0b7af150f.css";
 
 /***/ }),
 
-/***/ 726:
+/***/ 2362:
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "32ea40cd505bb02f974d.js";
+module.exports = __webpack_require__.p + "567331f2ae4e921d6505.css";
 
 /***/ }),
 
-/***/ 817:
+/***/ 214:
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-module.exports = __webpack_require__.p + "1f4a52dfb10e8e05b2e3.js";
+module.exports = __webpack_require__.p + "07dab8ea85dc77c3c840.css";
 
 /***/ }),
 
-/***/ 120:
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-module.exports = __webpack_require__.p + "6cdb94d634eecfe8e346.js";
-
-/***/ }),
-
-/***/ 663:
+/***/ 9663:
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 module.exports = __webpack_require__.p + "bec5ee7f5dfdda324e3a.jpg";
+
+/***/ }),
+
+/***/ 6954:
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+module.exports = __webpack_require__.p + "0e654185d98fc2ecc06d.png";
 
 /***/ })
 
@@ -13036,621 +13349,149 @@ var __webpack_exports__ = {};
 ;// CONCATENATED MODULE: ./src/app/scripts/router.js
 // TODO #export-router: remove this IIFE
 
-  /**
-   * Append an html template to the document, at the given outlet.
-   * @param HTMLElement outlet the location on the document to add the template
-   * @param HTMLElement template the template to append
-   */
-  function renderTemplate(outlet, template) {
-    while (outlet.lastChild) {
-      outlet.removeChild(outlet.lastChild);
+/**
+ * Append an html template to the document, at the given outlet.
+ * @param HTMLElement outlet the location on the document to add the template
+ * @param HTMLElement template the template to append
+ */
+function renderTemplate(outlet, template) {
+  while (outlet.lastChild) {
+    outlet.removeChild(outlet.lastChild);
   }
   outlet.appendChild(template);
+}
+
+/**
+ * Create a new router. This router will load components into the given outlet.
+ * @param {HTMLElement} outlet The element to put components into.
+ */
+// TODO #export-router: export this function
+function Router(outlet) {
+  this._components = {};
+  this._templates = {};
+  this._outlet = outlet;
+  window.addEventListener("beforeunload", event => this._onLocationChanged());
+  window.addEventListener("hashchange", event => this._onLocationChanged(event.newURL));
+}
+
+/**
+ * Bind a component ot be displayed when the registered URL is reached.
+ * @param hash
+ * @param componentEntry
+ * @returns {Router}
+ */
+Router.prototype.register = function (hash, componentEntry) {
+  var path = `#${hash}`;
+  if (!componentEntry) {
+    throw new TypeError(`provided arg should be a Component. Got: ${componentEntry}`);
   }
-
-  /**
-   * Create a new router. This router will load components into the given outlet.
-   * @param {HTMLElement} outlet The element to put components into.
-   */
-  // TODO #export-router: export this function
-  function Router(outlet) {
-    this._components = {};
-    this._templates = {};
-    this._outlet = outlet;
-
-    window.addEventListener("beforeunload", (event) =>
-      this._onLocationChanged()
-    );
-    window.addEventListener("hashchange", (event) =>
-      this._onLocationChanged(event.newURL)
-    );
+  if (typeof hash !== "string") {
+    throw new TypeError(`provided route url should be a string. Got: ${hash}`);
+  } else {
+    this._components[path] = componentEntry;
   }
-  // TODO #export-router: remove this assignation
-  //window.Router = Router;
-
-  /**
-   * Bind a component ot be displayed when the registered URL is reached.
-   * @param hash
-   * @param componentEntry
-   * @returns {Router}
-   */
-  Router.prototype.register = function (hash, componentEntry) {
-    var path = `#${hash}`;
-    if (!componentEntry) {
-      throw new TypeError(
-        `provided arg should be a Component. Got: ${componentEntry}`
-      );
-    }
-
-    if (typeof hash !== "string") {
-      throw new TypeError(
-        `provided route url should be a string. Got: ${hash}`
-      );
-    } else {
-      this._components[path] = componentEntry;
-    }
-
-    if (componentEntry.templateUrl) {
-      if (!this._templates[componentEntry.templateUrl]) {
-        this._templates[componentEntry.templateUrl] = true;
-        var _this = this;
-        _fetchTemplate(componentEntry.templateUrl, function (template) {
-          componentEntry.template = template;
-          if (_getRouteHash(window.location.href) === path) {
-            _this._renderComponent(_this._components[path]);
-          }
-        });
-      } else if (_getRouteHash(window.location.href) === path) {
-        _this._renderComponent(_this._components[path]);
-      }
-    } else {
-      if (_getRouteHash(window.location.href) === path) {
-        this._renderComponent(this._components[path]);
-      }
-    }
-
-    return this;
-  };
-
-  Router.prototype._renderComponent = function (componentEntry) {
-    var component = new componentEntry.component();
-
-    var outlet = this._outlet;
-
-    var element = document.createElement("template");
-    element.innerHTML =
-      componentEntry.template ||
-      component.template ||
-      (component.getTemplate && component.getTemplate());
-
-    renderTemplate(outlet, element.content.cloneNode(true));
-    if (typeof component.init === "function") {
-      component.init();
-    }
-  };
-
-  Router.prototype._onLocationChanged = function (loc) {
-    if (!loc) {
-      return;
-    }
-
-    var path = _getRouteHash(loc);
-    var componentEntry = this._components[path];
-
-    if (componentEntry) {
-      this._renderComponent(componentEntry);
-    } else if (loc.startsWith(window.location.origin)) {
-      console.warn(
-        `navigated to "${loc}, but no component was registered at this address"`
-      );
-    }
-  };
-
-  function _getRouteHash(url) {
-    return new URL(url).hash.split("?")[0] || "#";
-  }
-
-  function _fetchTemplate(templateUrl, cb) {
-    var xhr =
-      typeof XMLHttpRequest != "undefined"
-        ? new XMLHttpRequest()
-        : new ActiveXObject("Microsoft.XMLHTTP");
-
-    xhr.open("get", templateUrl, true);
-
-    xhr.onreadystatechange = function () {
-      var status;
-      var data;
-      // https://xhr.spec.whatwg.org/#dom-xmlhttprequest-readystate
-      if (xhr.readyState == 4) {
-        // `DONE`
-        status = xhr.status;
-        if (status == 200) {
-          data = xhr.responseText;
-          cb(data);
-        } else {
-          throw new Error(status);
+  if (componentEntry.templateUrl) {
+    if (!this._templates[componentEntry.templateUrl]) {
+      this._templates[componentEntry.templateUrl] = true;
+      var _this = this;
+      _fetchTemplate(componentEntry.templateUrl, function (template) {
+        componentEntry.template = template;
+        if (_getRouteHash(window.location.href) === path) {
+          _this._renderComponent(_this._components[path]);
         }
-      }
-    };
-    xhr.send();
+      });
+    } else if (_getRouteHash(window.location.href) === path) {
+      _this._renderComponent(_this._components[path]);
+    }
+  } else {
+    if (_getRouteHash(window.location.href) === path) {
+      this._renderComponent(this._components[path]);
+    }
   }
-
-
+  return this;
+};
+Router.prototype._renderComponent = function (componentEntry) {
+  var component = new componentEntry.component();
+  var outlet = this._outlet;
+  var element = document.createElement("template");
+  element.innerHTML = componentEntry.template || component.template || component.getTemplate && component.getTemplate();
+  renderTemplate(outlet, element.content.cloneNode(true));
+  if (typeof component.init === "function") {
+    component.init();
+  }
+};
+Router.prototype._onLocationChanged = function (loc) {
+  if (!loc) {
+    return;
+  }
+  var path = _getRouteHash(loc);
+  var componentEntry = this._components[path];
+  if (componentEntry) {
+    this._renderComponent(componentEntry);
+  } else if (loc.startsWith(window.location.origin)) {
+    console.warn(`navigated to "${loc}, but no component was registered at this address"`);
+  }
+};
+function _getRouteHash(url) {
+  return new URL(url).hash.split("?")[0] || "#";
+}
+function _fetchTemplate(templateUrl, cb) {
+  var xhr = typeof XMLHttpRequest != "undefined" ? new XMLHttpRequest() : new ActiveXObject("Microsoft.XMLHTTP");
+  xhr.open("get", templateUrl, true);
+  xhr.onreadystatechange = function () {
+    var status;
+    var data;
+    // https://xhr.spec.whatwg.org/#dom-xmlhttprequest-readystate
+    if (xhr.readyState == 4) {
+      // `DONE`
+      status = xhr.status;
+      if (status == 200) {
+        data = xhr.responseText;
+        cb(data);
+      } else {
+        throw new Error(status);
+      }
+    }
+  };
+  xhr.send();
+}
 // EXTERNAL MODULE: ./node_modules/html-loader/dist/runtime/getUrl.js
-var getUrl = __webpack_require__(385);
+var getUrl = __webpack_require__(4385);
 var getUrl_default = /*#__PURE__*/__webpack_require__.n(getUrl);
-;// CONCATENATED MODULE: ./src/app/views/welcome.html
+;// CONCATENATED MODULE: ./src/app/components/welcome/welcome.component.html
 // Imports
 
-var ___HTML_LOADER_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(977), __webpack_require__.b);
-var ___HTML_LOADER_IMPORT_1___ = new URL(/* asset import */ __webpack_require__(221), __webpack_require__.b);
-var ___HTML_LOADER_IMPORT_2___ = new URL(/* asset import */ __webpack_require__(120), __webpack_require__.b);
+var ___HTML_LOADER_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(8977), __webpack_require__.b);
+var ___HTML_LOADER_IMPORT_1___ = new URL(/* asset import */ __webpack_require__(214), __webpack_require__.b);
+var ___HTML_LOADER_IMPORT_2___ = new URL(/* asset import */ __webpack_require__(4513), __webpack_require__.b);
 // Module
 var ___HTML_LOADER_REPLACEMENT_0___ = getUrl_default()(___HTML_LOADER_IMPORT_0___);
 var ___HTML_LOADER_REPLACEMENT_1___ = getUrl_default()(___HTML_LOADER_IMPORT_1___);
 var ___HTML_LOADER_REPLACEMENT_2___ = getUrl_default()(___HTML_LOADER_IMPORT_2___);
 var code = "<!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"UTF-8\"/> <title>MÈME ory</title> <link rel=\"stylesheet\" href=\"" + ___HTML_LOADER_REPLACEMENT_0___ + "\"/> <link rel=\"stylesheet\" href=\"" + ___HTML_LOADER_REPLACEMENT_1___ + "\"/> <" + "script src=\"" + ___HTML_LOADER_REPLACEMENT_2___ + "\"><" + "/script> </head> <body> <main class=\"welcome-cmp\"> <div class=\"container\"> <form id=\"start-form\" class=\"form-signin card\" novalidate> <div class=\"card-body\"> <div class=\"form-label-group mb-3\"> <label for=\"nickname\">Nickname</label> <input id=\"nickname\" autofocus class=\"form-control\" type=\"text\" name=\"name\" required placeholder=\"Enter a nickname\" pattern=\"[A-Za-z0-9]{3,20}\" aria-describedby=\"nicknameHelp\"/> <small id=\"nicknameHelp\" class=\"form-text text-muted\">Any nickname with characters 3 to 20 alphanumeric charachers </small> <div class=\"invalid-feedback\"> <p> Player name must be alphanumerical and between 3 and 20 characters. </p> </div> </div> <div class=\"form-group mb-3\"> <label for=\"size\">Size</label> <input id=\"size\" class=\"form-control\" required type=\"number\" min=\"1\" max=\"10\" name=\"size\" placeholder=\"enter a size\" aria-describedby=\"sizeHelp\"/> <small id=\"sizeHelp\" class=\"form-text text-muted\">how many pairs do you want to play with? </small> <div class=\"invalid-feedback\"> <p>Game size must be between 1 and 10.</p> </div> </div> <div class=\"text-right\"> <input class=\"btn btn-outline-primary\" type=\"submit\" value=\"Play\"/> </div> </div> </form> </div> </main> <" + "script>var wc=(new WelcomeComponent).init()<" + "/script> </body> </html> ";
 // Exports
-/* harmony default export */ const welcome = (code);
-;// CONCATENATED MODULE: ./src/app/scripts/welcome.js
-
-
-
-  // TODO #class: use the ES6 class keyword
-  /* class WelcomeComponent constructor  */
-  function WelcomeComponent() {
-    // TODO #extends: call super(template)
-    this.template = welcome;
-  }
-  // put component in global scope, to be runnable right from the HTML.
-  // TODO #class: turn function into a method of WelcomeComponent
-  /* method WelcomeComponent.init */
-  WelcomeComponent.prototype.init = function init() {
-    var form = document.querySelector("form.form-signin");
-
-    form.addEventListener(
-      "submit",
-      // TODO #arrow-function: use arrow function instead.
-      function (event) {
-        event.preventDefault();
-        if (form.checkValidity() === false) {
-          event.stopPropagation();
-          form.classList.add("was-validated");
-        } else {
-          var name = event.srcElement.querySelector("#nickname").value;
-          var size = parseInt(event.srcElement.querySelector("#size").value);
-
-          _startGame(name, size);
-        }
-      }.bind(this),
-      false
-    );
-
-    return this;
-  };
-
-  // TODO #class: turn function into a method of WelcomeComponent
-  function _startGame(name, size) {
-    // TODO #spa: replace with './#game'
-    var gamePage = "./#game";
-    // TODO #template-literals:  use template literals (backquotes)
-    window.location = gamePage + "?name=" + name + "&size=" + size;
-  }
-
-
-;// CONCATENATED MODULE: ./src/app/views/game.html
-// Imports
-
-var game_HTML_LOADER_IMPORT_0_ = new URL(/* asset import */ __webpack_require__(977), __webpack_require__.b);
-var game_HTML_LOADER_IMPORT_1_ = new URL(/* asset import */ __webpack_require__(221), __webpack_require__.b);
-var game_HTML_LOADER_IMPORT_2_ = new URL(/* asset import */ __webpack_require__(817), __webpack_require__.b);
-var ___HTML_LOADER_IMPORT_3___ = new URL(/* asset import */ __webpack_require__(116), __webpack_require__.b);
-// Module
-var game_HTML_LOADER_REPLACEMENT_0_ = getUrl_default()(game_HTML_LOADER_IMPORT_0_);
-var game_HTML_LOADER_REPLACEMENT_1_ = getUrl_default()(game_HTML_LOADER_IMPORT_1_);
-var game_HTML_LOADER_REPLACEMENT_2_ = getUrl_default()(game_HTML_LOADER_IMPORT_2_);
-var ___HTML_LOADER_REPLACEMENT_3___ = getUrl_default()(___HTML_LOADER_IMPORT_3___);
-var game_code = "<!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"UTF-8\"/> <title>MÈME ory</title> <link rel=\"stylesheet\" href=\"" + game_HTML_LOADER_REPLACEMENT_0_ + "\"/> <link rel=\"stylesheet\" href=\"" + game_HTML_LOADER_REPLACEMENT_1_ + "\"/> <" + "script src=\"" + game_HTML_LOADER_REPLACEMENT_2_ + "\"><" + "/script> <" + "script src=\"" + ___HTML_LOADER_REPLACEMENT_3___ + "\"><" + "/script> <body> <main class=\"game-cmp\"> <div class=\"cards\"></div> </main> <" + "script>(new GameComponent).init()<" + "/script> </body> </head></html> ";
-// Exports
-/* harmony default export */ const game = (game_code);
-;// CONCATENATED MODULE: ./src/app/scripts/utils.js
-// TODO #export-functions: export function parseUrl
-function parseUrl(url = window.location.href) {
-  var query = url.split("?")[1] || "";
-  var result = {};
-
-  var parts = query.split("&");
-  // TODO #functional-programming: Use Array.map() & Array.reduce()
-  for (var i in parts) {
-    var item = parts[i];
-    var kv = item.split("=");
-    result[kv[0]] = kv[1];
-  }
-
-  return result;
-}
-
-;// CONCATENATED MODULE: ./src/assets/cards/back.png
-const back_namespaceObject = __webpack_require__.p + "dd7c8522accf2aa321b1.png";
-;// CONCATENATED MODULE: ./src/assets/cards/card-0.png
-const card_0_namespaceObject = __webpack_require__.p + "b4fcb5946ea8976c82f8.png";
-;// CONCATENATED MODULE: ./src/assets/cards/card-1.png
-const card_1_namespaceObject = __webpack_require__.p + "a111f209fed5931f5793.png";
-;// CONCATENATED MODULE: ./src/assets/cards/card-2.png
-const card_2_namespaceObject = __webpack_require__.p + "d42e6d2f68784bbe2575.png";
-;// CONCATENATED MODULE: ./src/assets/cards/card-3.png
-const card_3_namespaceObject = __webpack_require__.p + "7bccb8f76bf5dc436f1c.png";
-;// CONCATENATED MODULE: ./src/assets/cards/card-4.png
-const card_4_namespaceObject = __webpack_require__.p + "842da728bff30039ac9e.png";
-;// CONCATENATED MODULE: ./src/assets/cards/card-5.png
-const card_5_namespaceObject = __webpack_require__.p + "57677913fb65f1073387.png";
-;// CONCATENATED MODULE: ./src/assets/cards/card-6.png
-const card_6_namespaceObject = __webpack_require__.p + "a273b859256de443b584.png";
-;// CONCATENATED MODULE: ./src/assets/cards/card-7.png
-const card_7_namespaceObject = __webpack_require__.p + "669c2065417a5776112a.png";
-;// CONCATENATED MODULE: ./src/assets/cards/card-8.png
-const card_8_namespaceObject = __webpack_require__.p + "bab609258b8f0fcc533c.png";
-;// CONCATENATED MODULE: ./src/assets/cards/card-9.png
-const card_9_namespaceObject = __webpack_require__.p + "9166644175ddbd4ba9ec.png";
-;// CONCATENATED MODULE: ./src/app/scripts/game.js
-// TODO #import-html: use ES default imports to import game.html as template
-
-
-
-
-var CARD_TEMPLATE = ""
-  .concat('<main class="card-cmp">')
-  .concat('  <div class="card-wrapper">')
-  .concat('    <img class="card front-face" alt="card" />')
-  .concat('    <img class="card back-face" alt="card" />')
-  .concat("  </div>")
-  .concat("</main>");
-
-  var environment = {
-    api: {
-      host: "http://localhost:8081",
-    },
-  };
-
-  // TODO #class: use the ES6 class keyword
-  // TODO #extends: extend Component
-  /* class GameComponent constructor */
-  function GameComponent() {
-    // TODO #extends: call super(template)
-    // gather parameters from URL
-    var params = parseUrl();
-
-    this.template = game;
-    // save player name & game ize
-    this._name = params.name;
-    this._size = parseInt(params.size) || 9;
-    this._flippedCard = null;
-    this._matchedPairs = 0;
-  }
-
-  // put component in global scope, to be runnable right from the HTML.
-
-  // TODO #class: turn function into a method of GameComponent
-  /* method GameComponent.init */
-  GameComponent.prototype.init = function init() {
-    // fetch the cards configuration from the server
-    this.fetchConfig(
-      // TODO #arrow-function: use arrow function instead.
-      function (config) {
-        this._config = config;
-        this._boardElement = document.querySelector(".cards");
-
-        // create cards out of the config
-        this._cards = [];
-        // TODO #functional-programming: use Array.map() instead.
-        for (var i in this._config.ids) {
-          this._cards[i] = new CardComponent(this._config.ids[i]);
-        }
-
-        // TODO #functional-programming: use Array.forEach() instead.
-        // TODO #let-const: replace var with let.
-        for (var i in this._cards) {
-          var card = this._cards[i];
-
-          // TODO #let-const: extract function _appendCard (ie: copy its body here and remove the function)
-          this._appendCard(card);
-        }
-
-        this.start();
-      }.bind(this)
-    );
-  };
-  // TODO #class: turn function into a method of GameComponent
-
-  /* method GameComponent._appendCard */
-  GameComponent.prototype._appendCard = function _appendCard(card) {
-    this._boardElement.appendChild(card.getElement());
-
-    card.getElement().addEventListener(
-      "click",
-      // TODO #arrow-function: use arrow function instead.
-      function () {
-        this._flipCard(card);
-      }.bind(this)
-    );
-  };
-
-  // TODO #class: turn function into a method of GameComponent
-  /* method GameComponent.start */
-  GameComponent.prototype.start = function start() {
-    this._startTime = Date.now();
-    var seconds = 0;
-    // TODO #template-literals:  use template literals (backquotes)
-    document.querySelector("nav .navbar-title").textContent =
-      "Player: " + this._name + ". Elapsed time: " + seconds++;
-
-    this._timer = setInterval(
-      // TODO #arrow-function: use arrow function instead.
-      function () {
-        // TODO #template-literals:  use template literals (backquotes)
-        document.querySelector("nav .navbar-title").textContent =
-          "Player: " + this._name + ". Elapsed time: " + seconds++;
-      }.bind(this),
-      1000
-    );
-  };
-
-  // TODO #class: turn function into a method of GameComponent
-  /* method GameComponent.fetchConfig */
-  GameComponent.prototype.fetchConfig = function fetchConfig(cb) {
-    var xhr =
-      typeof XMLHttpRequest != "undefined"
-        ? new XMLHttpRequest()
-        : new ActiveXObject("Microsoft.XMLHTTP");
-
-    // TODO #template-literals:  use template literals (backquotes)
-    xhr.open("get", environment.api.host + "/board?size=" + this._size, true);
-
-    // TODO #arrow-function: use arrow function instead.
-    xhr.onreadystatechange = function () {
-      var status;
-      var data;
-      // https://xhr.spec.whatwg.org/#dom-xmlhttprequest-readystate
-      if (xhr.readyState == 4) {
-        // `DONE`
-        status = xhr.status;
-        if (status == 200) {
-          data = JSON.parse(xhr.responseText);
-          cb(data);
-        } else {
-          throw new Error(status);
-        }
-      }
-    };
-    xhr.send();
-  };
-
-  // TODO #class: turn function into a method of GameComponent
-  /* method GameComponent.goToScore */
-  GameComponent.prototype.goToScore = function goToScore() {
-    var timeElapsedInSeconds = Math.floor(
-      (Date.now() - this._startTime) / 1000
-    );
-    clearInterval(this._timer);
-
-    setTimeout(
-      // TODO #arrow-function: use arrow function instead.
-      function () {
-        // TODO #spa: replace with './#score'
-        var scorePage = "./#score";
-        // TODO #template-literals:  use template literals (backquotes)
-        window.location =
-          scorePage +
-          "?name=" +
-          this._name +
-          "&size=" +
-          this._size +
-          "&time=" +
-          timeElapsedInSeconds;
-      }.bind(this),
-      750
-    );
-  };
-
-  // TODO #class: turn function into a method of GameComponent
-  /* method GameComponent._flipCard */
-  GameComponent.prototype._flipCard = function _flipCard(card) {
-    if (this._busy) {
-      return;
-    }
-
-    if (card.flipped) {
-      return;
-    }
-
-    // flip the card
-    card.flip();
-
-    // if flipped first card of the pair
-    if (!this._flippedCard) {
-      // keep this card flipped and wait for the second card of the pair
-      this._flippedCard = card;
-    } else {
-      // second card of the pair flipped...
-
-      // if cards are the same
-      if (card.equals(this._flippedCard)) {
-        this._flippedCard.matched = true;
-        card.matched = true;
-        this._matchedPairs += 1;
-
-        // reset flipped card for the next turn.
-        this._flippedCard = null;
-
-        if (this._matchedPairs === this._size) {
-          this.goToScore();
-        }
-      } else {
-        this._busy = true;
-
-        // cards did not match
-        // wait a short amount of time before hiding both cards
-        setTimeout(
-          // TODO #arrow-function: use arrow function instead.
-          function () {
-            // hide the cards
-            this._flippedCard.flip();
-            card.flip();
-            this._busy = false;
-
-            // reset flipped card for the next turn.
-            this._flippedCard = null;
-          }.bind(this),
-          500
-        );
-      }
-    }
-  };
-
-  // TODO #card-component: Change images location to /app/components/game/card/assets/***.png
-  // TODO #import-assets: use ES default import to import images.
-
-
-
-
-
-
-
-
-
-
-
-
-var CARDS_IMAGE = [
-  back_namespaceObject,
-  card_0_namespaceObject,
-  card_1_namespaceObject,
-  card_2_namespaceObject,
-  card_3_namespaceObject,
-  card_4_namespaceObject,
-  card_5_namespaceObject,
-  card_6_namespaceObject,
-  card_7_namespaceObject,
-  card_8_namespaceObject,
-  card_9_namespaceObject,
-]; 
-
-  // TODO #class: use the ES6 class keyword
-  // TODO #extends: extends Component
-  /* class CardComponent constructor */
-  function CardComponent(id) {
-    // TODO #extends: call super(CARD_TEMPLATE)
-    // is this card flipped?
-    this._flipped = false;
-    this.template = CARD_TEMPLATE;
-
-    // has the matching card has been discovered already?
-    this.matched = false;
-
-    this._elt = document.createElement("div");
-    this._elt.innerHTML = this.template;
-    this._elt = this._elt.firstElementChild;
-    this._id = id;
-
-    this._imageElt = this.getElement().querySelector(".card-wrapper");
-    this._imageElt.querySelector("img.front-face").src =
-      CARDS_IMAGE[this._id + 1];
-    this._imageElt.querySelector("img.back-face").src = CARDS_IMAGE[0];
-  }
-
-  /* method CardComponent.getElement */
-  CardComponent.prototype.getElement = function getElement() {
-    return this._elt;
-  };
-
-  // TODO #class: turn function into a method of CardComponent
-  /* method CardComponent.flip */
-  CardComponent.prototype.flip = function flip() {
-    this._imageElt.classList.toggle("flip");
-    this._flipped = !this._flipped;
-  };
-
-  // TODO #class: turn function into a method of CardComponent
-  /* method CardComponent.equals */
-  CardComponent.prototype.equals = function equals(card) {
-    return card._id === this._id;
-  };
-
-  // TODO #class: turn function into a method of CardComponent
-  /* CardComponent.get flipped() */
-  Object.defineProperties(CardComponent.prototype, {
-    flipped: {
-      get: function () {
-        return this._flipped;
-      },
-    },
-  });
-
-
-;// CONCATENATED MODULE: ./src/app/views/score.html
-// Imports
-
-var score_HTML_LOADER_IMPORT_0_ = new URL(/* asset import */ __webpack_require__(977), __webpack_require__.b);
-var score_HTML_LOADER_IMPORT_1_ = new URL(/* asset import */ __webpack_require__(221), __webpack_require__.b);
-var score_HTML_LOADER_IMPORT_2_ = new URL(/* asset import */ __webpack_require__(817), __webpack_require__.b);
-var score_HTML_LOADER_IMPORT_3_ = new URL(/* asset import */ __webpack_require__(726), __webpack_require__.b);
-var ___HTML_LOADER_IMPORT_4___ = new URL(/* asset import */ __webpack_require__(663), __webpack_require__.b);
-// Module
-var score_HTML_LOADER_REPLACEMENT_0_ = getUrl_default()(score_HTML_LOADER_IMPORT_0_);
-var score_HTML_LOADER_REPLACEMENT_1_ = getUrl_default()(score_HTML_LOADER_IMPORT_1_);
-var score_HTML_LOADER_REPLACEMENT_2_ = getUrl_default()(score_HTML_LOADER_IMPORT_2_);
-var score_HTML_LOADER_REPLACEMENT_3_ = getUrl_default()(score_HTML_LOADER_IMPORT_3_);
-var ___HTML_LOADER_REPLACEMENT_4___ = getUrl_default()(___HTML_LOADER_IMPORT_4___);
-var score_code = "<!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"UTF-8\"/> <title>MÈME ory</title> <link rel=\"stylesheet\" href=\"" + score_HTML_LOADER_REPLACEMENT_0_ + "\"/> <link rel=\"stylesheet\" href=\"" + score_HTML_LOADER_REPLACEMENT_1_ + "\"/> <" + "script src=\"" + score_HTML_LOADER_REPLACEMENT_2_ + "\"><" + "/script> <" + "script src=\"" + score_HTML_LOADER_REPLACEMENT_3_ + "\"><" + "/script> </head> <body> <main class=\"score-cmp\"> <div class=\"d-flex p-3\"> <div class=\"flex-grow-1\"> <h3 class=\"congrats\">CONGRATS<br/><span id=\"name\"></span></h3> </div> <div> <img src=\"" + ___HTML_LOADER_REPLACEMENT_4___ + "\" class=\"happy\"/> <p class=\"size\"><span id=\"size\"></span> pairs</p> <p class=\"time\"><span id=\"time\"></span>s</p> </div> </div> </main> <" + "script>(new ScoreComponent).init()<" + "/script> </body> </html> ";
-// Exports
-/* harmony default export */ const score = (score_code);
-;// CONCATENATED MODULE: ./src/app/scripts/score.js
-
-// TODO #export-functions: remove the IIFE
-
-  // TODO #class: use the ES6 class keyword
-  /* class ScoreComponent constructor */
-  function ScoreComponent() {
-    // TODO #extends: call super(template)
-    var params = parseUrl();
-    this.template = score;
-    this.name = params.name;
-    this.size = parseInt(params.size);
-    this.time = parseInt(params.time);
-  }
-
-  // put component in global scope, to be runnable right from the HTML.
-
-  // TODO #class: turn function into a method of ScoreComponent
-  /* method ScoreComponent.init */
-  ScoreComponent.prototype.init = function init() {
-    document.getElementById("name").innerText = this.name;
-    document.getElementById("size").innerText = this.size;
-    document.getElementById("time").innerText = this.time;
-  };
-
+/* harmony default export */ const welcome_component = (code);
 // EXTERNAL MODULE: ./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js
-var injectStylesIntoStyleTag = __webpack_require__(72);
+var injectStylesIntoStyleTag = __webpack_require__(5072);
 var injectStylesIntoStyleTag_default = /*#__PURE__*/__webpack_require__.n(injectStylesIntoStyleTag);
 // EXTERNAL MODULE: ./node_modules/style-loader/dist/runtime/styleDomAPI.js
-var styleDomAPI = __webpack_require__(825);
+var styleDomAPI = __webpack_require__(7825);
 var styleDomAPI_default = /*#__PURE__*/__webpack_require__.n(styleDomAPI);
 // EXTERNAL MODULE: ./node_modules/style-loader/dist/runtime/insertBySelector.js
-var insertBySelector = __webpack_require__(659);
+var insertBySelector = __webpack_require__(7659);
 var insertBySelector_default = /*#__PURE__*/__webpack_require__.n(insertBySelector);
 // EXTERNAL MODULE: ./node_modules/style-loader/dist/runtime/setAttributesWithoutAttributes.js
-var setAttributesWithoutAttributes = __webpack_require__(56);
+var setAttributesWithoutAttributes = __webpack_require__(5056);
 var setAttributesWithoutAttributes_default = /*#__PURE__*/__webpack_require__.n(setAttributesWithoutAttributes);
 // EXTERNAL MODULE: ./node_modules/style-loader/dist/runtime/insertStyleElement.js
 var insertStyleElement = __webpack_require__(540);
 var insertStyleElement_default = /*#__PURE__*/__webpack_require__.n(insertStyleElement);
 // EXTERNAL MODULE: ./node_modules/style-loader/dist/runtime/styleTagTransform.js
-var styleTagTransform = __webpack_require__(113);
+var styleTagTransform = __webpack_require__(1113);
 var styleTagTransform_default = /*#__PURE__*/__webpack_require__.n(styleTagTransform);
-// EXTERNAL MODULE: ./node_modules/css-loader/dist/cjs.js!./node_modules/bootstrap/dist/css/bootstrap.css
-var bootstrap = __webpack_require__(923);
-;// CONCATENATED MODULE: ./node_modules/bootstrap/dist/css/bootstrap.css
+// EXTERNAL MODULE: ./node_modules/css-loader/dist/cjs.js!./src/app/components/welcome/welcome.component.css
+var welcome_welcome_component = __webpack_require__(8124);
+;// CONCATENATED MODULE: ./src/app/components/welcome/welcome.component.css
 
       
       
@@ -13672,16 +13513,455 @@ options.setAttributes = (setAttributesWithoutAttributes_default());
 options.domAPI = (styleDomAPI_default());
 options.insertStyleElement = (insertStyleElement_default());
 
-var update = injectStylesIntoStyleTag_default()(bootstrap/* default */.A, options);
+var update = injectStylesIntoStyleTag_default()(welcome_welcome_component/* default */.A, options);
+
+
+
+
+       /* harmony default export */ const components_welcome_welcome_component = (welcome_welcome_component/* default */.A && welcome_welcome_component/* default */.A.locals ? welcome_welcome_component/* default */.A.locals : undefined);
+
+;// CONCATENATED MODULE: ./src/app/scripts/component.js
+class Component {
+  constructor(template = "") {
+    this.template = template;
+  }
+}
+;// CONCATENATED MODULE: ./src/app/components/welcome/welcome.component.js
+
+
+
+/* class WelcomeComponent constructor  */
+class WelcomeComponent extends Component {
+  constructor() {
+    super(welcome_component);
+  }
+  _startGame(name, size) {
+    this.name = name;
+    this.size = size;
+    let gamePage = "./#game";
+    window.location = `${gamePage}?name=${name}&size=${size}`;
+  }
+  init() {
+    let form = document.querySelector("form.form-signin");
+    form.addEventListener("submit", event => {
+      event.preventDefault();
+      if (form.checkValidity() === false) {
+        event.stopPropagation();
+        form.classList.add("was-validated");
+      } else {
+        let name = event.srcElement.querySelector("#nickname").value;
+        let size = parseInt(event.srcElement.querySelector("#size").value);
+        this._startGame(name, size);
+      }
+    }, false);
+    return this;
+  }
+}
+;// CONCATENATED MODULE: ./src/app/components/game/game.component.html
+// Imports
+
+var game_component_HTML_LOADER_IMPORT_0_ = new URL(/* asset import */ __webpack_require__(8977), __webpack_require__.b);
+var game_component_HTML_LOADER_IMPORT_1_ = new URL(/* asset import */ __webpack_require__(116), __webpack_require__.b);
+var game_component_HTML_LOADER_IMPORT_2_ = new URL(/* asset import */ __webpack_require__(7744), __webpack_require__.b);
+var ___HTML_LOADER_IMPORT_3___ = new URL(/* asset import */ __webpack_require__(7467), __webpack_require__.b);
+// Module
+var game_component_HTML_LOADER_REPLACEMENT_0_ = getUrl_default()(game_component_HTML_LOADER_IMPORT_0_);
+var game_component_HTML_LOADER_REPLACEMENT_1_ = getUrl_default()(game_component_HTML_LOADER_IMPORT_1_);
+var game_component_HTML_LOADER_REPLACEMENT_2_ = getUrl_default()(game_component_HTML_LOADER_IMPORT_2_);
+var ___HTML_LOADER_REPLACEMENT_3___ = getUrl_default()(___HTML_LOADER_IMPORT_3___);
+var game_component_code = "<!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"UTF-8\"/> <title>MÈME ory</title> <link rel=\"stylesheet\" href=\"" + game_component_HTML_LOADER_REPLACEMENT_0_ + "\"/> <link rel=\"stylesheet\" href=\"" + game_component_HTML_LOADER_REPLACEMENT_1_ + "\"/> <" + "script src=\"" + game_component_HTML_LOADER_REPLACEMENT_2_ + "\"><" + "/script> <" + "script src=\"" + ___HTML_LOADER_REPLACEMENT_3___ + "\"><" + "/script> <body> <main class=\"game-cmp\"> <div class=\"cards\"></div> </main> <" + "script>(new GameComponent).init()<" + "/script> </body> </head></html> ";
+// Exports
+/* harmony default export */ const game_component = (game_component_code);
+;// CONCATENATED MODULE: ./src/app/scripts/utils.js
+function parseUrl(url = window.location.href) {
+  return (url.split("?")[1] ?? "").split("&").map(q => q.split("=")).reduce((params, [k, v]) => ({
+    ...params,
+    [k]: v
+  }), {});
+}
+;// CONCATENATED MODULE: ./src/app/components/game/card/assets/cards/back.png
+const back_namespaceObject = __webpack_require__.p + "dd7c8522accf2aa321b1.png";
+;// CONCATENATED MODULE: ./src/app/components/game/card/assets/cards/card-0.png
+const card_0_namespaceObject = __webpack_require__.p + "b4fcb5946ea8976c82f8.png";
+;// CONCATENATED MODULE: ./src/app/components/game/card/assets/cards/card-1.png
+const card_1_namespaceObject = __webpack_require__.p + "a111f209fed5931f5793.png";
+;// CONCATENATED MODULE: ./src/app/components/game/card/assets/cards/card-2.png
+const card_2_namespaceObject = __webpack_require__.p + "d42e6d2f68784bbe2575.png";
+;// CONCATENATED MODULE: ./src/app/components/game/card/assets/cards/card-3.png
+const card_3_namespaceObject = __webpack_require__.p + "7bccb8f76bf5dc436f1c.png";
+;// CONCATENATED MODULE: ./src/app/components/game/card/assets/cards/card-4.png
+const card_4_namespaceObject = __webpack_require__.p + "842da728bff30039ac9e.png";
+;// CONCATENATED MODULE: ./src/app/components/game/card/assets/cards/card-5.png
+const card_5_namespaceObject = __webpack_require__.p + "57677913fb65f1073387.png";
+;// CONCATENATED MODULE: ./src/app/components/game/card/assets/cards/card-6.png
+const card_6_namespaceObject = __webpack_require__.p + "a273b859256de443b584.png";
+;// CONCATENATED MODULE: ./src/app/components/game/card/assets/cards/card-7.png
+const card_7_namespaceObject = __webpack_require__.p + "669c2065417a5776112a.png";
+;// CONCATENATED MODULE: ./src/app/components/game/card/assets/cards/card-8.png
+const card_8_namespaceObject = __webpack_require__.p + "bab609258b8f0fcc533c.png";
+;// CONCATENATED MODULE: ./src/app/components/game/card/assets/cards/card-9.png
+const card_9_namespaceObject = __webpack_require__.p + "9166644175ddbd4ba9ec.png";
+;// CONCATENATED MODULE: ./src/app/components/game/card/card.component.html
+// Module
+var card_component_code = "<main class=\"card-cmp\"> <div class=\"card-wrapper\"> <img class=\"card front-face\" alt=\"card\"/> <img class=\"card back-face\" alt=\"card\"/> </div> </main>";
+// Exports
+/* harmony default export */ const card_component = (card_component_code);
+// EXTERNAL MODULE: ./node_modules/css-loader/dist/cjs.js!./src/app/components/game/card/card.component.css
+var card_card_component = __webpack_require__(1819);
+;// CONCATENATED MODULE: ./src/app/components/game/card/card.component.css
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+var card_component_options = {};
+
+card_component_options.styleTagTransform = (styleTagTransform_default());
+card_component_options.setAttributes = (setAttributesWithoutAttributes_default());
+
+      card_component_options.insert = insertBySelector_default().bind(null, "head");
+    
+card_component_options.domAPI = (styleDomAPI_default());
+card_component_options.insertStyleElement = (insertStyleElement_default());
+
+var card_component_update = injectStylesIntoStyleTag_default()(card_card_component/* default */.A, card_component_options);
+
+
+
+
+       /* harmony default export */ const game_card_card_component = (card_card_component/* default */.A && card_card_component/* default */.A.locals ? card_card_component/* default */.A.locals : undefined);
+
+;// CONCATENATED MODULE: ./src/app/components/game/card/card.component.js
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+let CARDS_IMAGE = [back_namespaceObject, card_0_namespaceObject, card_1_namespaceObject, card_2_namespaceObject, card_3_namespaceObject, card_4_namespaceObject, card_5_namespaceObject, card_6_namespaceObject, card_7_namespaceObject, card_8_namespaceObject, card_9_namespaceObject];
+
+/* class CardComponent constructor */
+class CardComponent extends Component {
+  constructor(id) {
+    super(card_component);
+    this.id = id;
+    // is this card flipped?  
+    this._flipped = false;
+
+    // has the matching card has been discovered already?
+    this.matched = false;
+    this._elt = document.createElement("div");
+    this._elt.innerHTML = this.template;
+    this._elt = this._elt.firstElementChild;
+    this._id = id;
+    this._imageElt = this.getElement().querySelector(".card-wrapper");
+    this._imageElt.querySelector("img.front-face").src = CARDS_IMAGE[this._id + 1];
+    this._imageElt.querySelector("img.back-face").src = CARDS_IMAGE[0];
+  }
+  get flipped() {
+    return this._flipped;
+  }
+  set flipped(_flipped) {
+    this._flipped = _flipped;
+  }
+  getElement() {
+    return this._elt;
+  }
+  flip() {
+    this._imageElt.classList.toggle("flip");
+    this._flipped = !this._flipped;
+  }
+  equals(card) {
+    return card._id === this._id;
+  }
+}
+// EXTERNAL MODULE: ./node_modules/css-loader/dist/cjs.js!./src/app/components/game/game.component.css
+var game_game_component = __webpack_require__(8402);
+;// CONCATENATED MODULE: ./src/app/components/game/game.component.css
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+var game_component_options = {};
+
+game_component_options.styleTagTransform = (styleTagTransform_default());
+game_component_options.setAttributes = (setAttributesWithoutAttributes_default());
+
+      game_component_options.insert = insertBySelector_default().bind(null, "head");
+    
+game_component_options.domAPI = (styleDomAPI_default());
+game_component_options.insertStyleElement = (insertStyleElement_default());
+
+var game_component_update = injectStylesIntoStyleTag_default()(game_game_component/* default */.A, game_component_options);
+
+
+
+
+       /* harmony default export */ const components_game_game_component = (game_game_component/* default */.A && game_game_component/* default */.A.locals ? game_game_component/* default */.A.locals : undefined);
+
+;// CONCATENATED MODULE: ./src/app/components/game/game.component.js
+
+
+
+
+
+let environment = {
+  api: {
+    host: "http://localhost:8081"
+  }
+};
+
+/* class GameComponent constructor */
+class GameComponent extends Component {
+  constructor() {
+    super(game_component);
+    // gather parameters from URL
+    let params = parseUrl();
+    // save player name & game ize
+    this._name = params.name;
+    this._size = parseInt(params.size) || 9;
+    this._flippedCard = null;
+    this._matchedPairs = 0;
+  }
+  async init() {
+    this._config = await this.fetchConfig();
+    this._boardElement = document.querySelector(".cards");
+    // fetch the cards configuration from the server
+    // create cards out of the config
+    this._cards = [];
+    this._cards = Object.entries(this._config.ids).reduce((cards, [key, value]) => {
+      cards[key] = new CardComponent(value);
+      return cards;
+    }, {});
+    for (const card of Object.values(this._cards)) {
+      this._boardElement.appendChild(card.getElement());
+      card.getElement().addEventListener("click", () => {
+        this._flipCard(card);
+      });
+    }
+    this.start();
+  }
+  async fetchConfig() {
+    return fetch(`${environment.api.host}/board?size=${this._size}`).then(r => r.json());
+  }
+  start() {
+    this._startTime = Date.now();
+    let seconds = 0;
+    document.querySelector("nav .navbar-title").textContent = `Player: ${this._name}. Elapsed time: ${seconds++}`;
+    this._timer = setInterval(() => {
+      document.querySelector("nav .navbar-title").textContent = `Player: ${this._name}. Elapsed time: ${seconds++}`;
+    }, 1000);
+  }
+  goToScore() {
+    let timeElapsedInSeconds = Math.floor((Date.now() - this._startTime) / 1000);
+    clearInterval(this._timer);
+    setTimeout(() => {
+      let scorePage = "./#score";
+      window.location = `${scorePage}?name=${this._name}&size=${this._size}&time=${timeElapsedInSeconds}`;
+    }, 750);
+  }
+  _flipCard(card) {
+    this.card = card;
+    if (this._busy) {
+      return;
+    }
+    if (card.flipped) {
+      return;
+    }
+    // flip the card
+    card.flip();
+
+    // if flipped first card of the pair
+    if (!this._flippedCard) {
+      // keep this card flipped and wait for the second card of the pair
+      this._flippedCard = card;
+    } else {
+      // second card of the pair flipped...
+      // if cards are the same
+      if (card.equals(this._flippedCard)) {
+        this._flippedCard.matched = true;
+        card.matched = true;
+        this._matchedPairs += 1;
+        // reset flipped card for the next turn.
+        this._flippedCard = null;
+        if (this._matchedPairs === this._size) {
+          this.goToScore();
+        }
+      } else {
+        this._busy = true;
+        // cards did not match
+        // wait a short amount of time before hiding both cards
+        setTimeout(() => {
+          // hide the cards
+          this._flippedCard.flip();
+          card.flip();
+          this._busy = false;
+
+          // reset flipped card for the next turn.
+          this._flippedCard = null;
+        }, 500);
+      }
+    }
+  }
+}
+;
+
+// put component in global scope, to be runnable right from the HTML.
+;// CONCATENATED MODULE: ./src/app/components/score/score.component.html
+// Imports
+
+var score_component_HTML_LOADER_IMPORT_0_ = new URL(/* asset import */ __webpack_require__(8977), __webpack_require__.b);
+var score_component_HTML_LOADER_IMPORT_1_ = new URL(/* asset import */ __webpack_require__(2362), __webpack_require__.b);
+var score_component_HTML_LOADER_IMPORT_2_ = new URL(/* asset import */ __webpack_require__(7744), __webpack_require__.b);
+var score_component_HTML_LOADER_IMPORT_3_ = new URL(/* asset import */ __webpack_require__(509), __webpack_require__.b);
+var ___HTML_LOADER_IMPORT_4___ = new URL(/* asset import */ __webpack_require__(9663), __webpack_require__.b);
+// Module
+var score_component_HTML_LOADER_REPLACEMENT_0_ = getUrl_default()(score_component_HTML_LOADER_IMPORT_0_);
+var score_component_HTML_LOADER_REPLACEMENT_1_ = getUrl_default()(score_component_HTML_LOADER_IMPORT_1_);
+var score_component_HTML_LOADER_REPLACEMENT_2_ = getUrl_default()(score_component_HTML_LOADER_IMPORT_2_);
+var score_component_HTML_LOADER_REPLACEMENT_3_ = getUrl_default()(score_component_HTML_LOADER_IMPORT_3_);
+var ___HTML_LOADER_REPLACEMENT_4___ = getUrl_default()(___HTML_LOADER_IMPORT_4___);
+var score_component_code = "<!DOCTYPE html> <html lang=\"en\"> <head> <meta charset=\"UTF-8\"/> <title>MÈME ory</title> <link rel=\"stylesheet\" href=\"" + score_component_HTML_LOADER_REPLACEMENT_0_ + "\"/> <link rel=\"stylesheet\" href=\"" + score_component_HTML_LOADER_REPLACEMENT_1_ + "\"/> <" + "script src=\"" + score_component_HTML_LOADER_REPLACEMENT_2_ + "\"><" + "/script> <" + "script src=\"" + score_component_HTML_LOADER_REPLACEMENT_3_ + "\"><" + "/script> </head> <body> <main class=\"score-cmp\"> <div class=\"d-flex p-3\"> <div class=\"flex-grow-1\"> <h3 class=\"congrats\">CONGRATS<br/><span id=\"name\"></span></h3> </div> <div> <img src=\"" + ___HTML_LOADER_REPLACEMENT_4___ + "\" class=\"happy\"/> <p class=\"size\"><span id=\"size\"></span> pairs</p> <p class=\"time\"><span id=\"time\"></span>s</p> </div> </div> </main> <" + "script>(new ScoreComponent).init()<" + "/script> </body> </html> ";
+// Exports
+/* harmony default export */ const score_component = (score_component_code);
+// EXTERNAL MODULE: ./node_modules/css-loader/dist/cjs.js!./src/app/components/score/score.component.css
+var score_score_component = __webpack_require__(3128);
+;// CONCATENATED MODULE: ./src/app/components/score/score.component.css
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+var score_component_options = {};
+
+score_component_options.styleTagTransform = (styleTagTransform_default());
+score_component_options.setAttributes = (setAttributesWithoutAttributes_default());
+
+      score_component_options.insert = insertBySelector_default().bind(null, "head");
+    
+score_component_options.domAPI = (styleDomAPI_default());
+score_component_options.insertStyleElement = (insertStyleElement_default());
+
+var score_component_update = injectStylesIntoStyleTag_default()(score_score_component/* default */.A, score_component_options);
+
+
+
+
+       /* harmony default export */ const components_score_score_component = (score_score_component/* default */.A && score_score_component/* default */.A.locals ? score_score_component/* default */.A.locals : undefined);
+
+;// CONCATENATED MODULE: ./src/app/components/score/score.component.js
+
+
+
+
+
+/* class ScoreComponent constructor */
+class ScoreComponent extends Component {
+  constructor() {
+    super(score_component);
+    let params = parseUrl();
+    this.template = score_component;
+    this.name = params.name;
+    this.size = parseInt(params.size);
+    this.time = parseInt(params.time);
+  }
+  init() {
+    document.getElementById("name").innerText = this.name;
+    document.getElementById("size").innerText = this.size;
+    document.getElementById("time").innerText = this.time;
+  }
+}
+;// CONCATENATED MODULE: ./src/app/components/navbar/navbar.component.html
+// Imports
+
+var navbar_component_HTML_LOADER_IMPORT_0_ = new URL(/* asset import */ __webpack_require__(6954), __webpack_require__.b);
+// Module
+var navbar_component_HTML_LOADER_REPLACEMENT_0_ = getUrl_default()(navbar_component_HTML_LOADER_IMPORT_0_);
+var navbar_component_code = "<nav class=\"navbar bg-primary mb-3 shadow\"> <div class=\"container-fluid\"> <a class=\"navbar-brand d-flex\" href=\"/\"> <img class=\"d-inline-block align-top\" src=\"" + navbar_component_HTML_LOADER_REPLACEMENT_0_ + "\" alt=\"logo\"/> <span class=\"align-self-center m-2\">MÈME ory</span> </a> <span class=\"navbar-title\"></span> </div> </nav>";
+// Exports
+/* harmony default export */ const navbar_component = (navbar_component_code);
+;// CONCATENATED MODULE: ./src/app/components/navbar/navbar.component.js
+
+class NavbarComponent extends HTMLElement {
+  constructor() {
+    super();
+    this.innerHTML = navbar_component;
+  }
+}
+;// CONCATENATED MODULE: ./src/app/components/footer/footer.component.html
+// Module
+var footer_component_code = "<footer class=\"p-3 bg-dark\"> <span>&copy The MEME-Ory corporation | 2022</span> </footer>";
+// Exports
+/* harmony default export */ const footer_component = (footer_component_code);
+;// CONCATENATED MODULE: ./src/app/components/footer/footer.component.js
+
+class FooterComponent extends HTMLElement {
+  constructor() {
+    super();
+    this.innerHTML = footer_component;
+  }
+}
+// EXTERNAL MODULE: ./node_modules/css-loader/dist/cjs.js!./node_modules/bootstrap/dist/css/bootstrap.css
+var bootstrap = __webpack_require__(4923);
+;// CONCATENATED MODULE: ./node_modules/bootstrap/dist/css/bootstrap.css
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+var bootstrap_options = {};
+
+bootstrap_options.styleTagTransform = (styleTagTransform_default());
+bootstrap_options.setAttributes = (setAttributesWithoutAttributes_default());
+
+      bootstrap_options.insert = insertBySelector_default().bind(null, "head");
+    
+bootstrap_options.domAPI = (styleDomAPI_default());
+bootstrap_options.insertStyleElement = (insertStyleElement_default());
+
+var bootstrap_update = injectStylesIntoStyleTag_default()(bootstrap/* default */.A, bootstrap_options);
 
 
 
 
        /* harmony default export */ const css_bootstrap = (bootstrap/* default */.A && bootstrap/* default */.A.locals ? bootstrap/* default */.A.locals : undefined);
 
-// EXTERNAL MODULE: ./node_modules/css-loader/dist/cjs.js!./src/app/styles/style.css
-var style = __webpack_require__(779);
-;// CONCATENATED MODULE: ./src/app/styles/style.css
+// EXTERNAL MODULE: ./node_modules/css-loader/dist/cjs.js!./src/app/components/footer/footer.component.css
+var footer_footer_component = __webpack_require__(3120);
+;// CONCATENATED MODULE: ./src/app/components/footer/footer.component.css
 
       
       
@@ -13693,22 +13973,53 @@ var style = __webpack_require__(779);
       
       
 
-var style_options = {};
+var footer_component_options = {};
 
-style_options.styleTagTransform = (styleTagTransform_default());
-style_options.setAttributes = (setAttributesWithoutAttributes_default());
+footer_component_options.styleTagTransform = (styleTagTransform_default());
+footer_component_options.setAttributes = (setAttributesWithoutAttributes_default());
 
-      style_options.insert = insertBySelector_default().bind(null, "head");
+      footer_component_options.insert = insertBySelector_default().bind(null, "head");
     
-style_options.domAPI = (styleDomAPI_default());
-style_options.insertStyleElement = (insertStyleElement_default());
+footer_component_options.domAPI = (styleDomAPI_default());
+footer_component_options.insertStyleElement = (insertStyleElement_default());
 
-var style_update = injectStylesIntoStyleTag_default()(style/* default */.A, style_options);
-
-
+var footer_component_update = injectStylesIntoStyleTag_default()(footer_footer_component/* default */.A, footer_component_options);
 
 
-       /* harmony default export */ const styles_style = (style/* default */.A && style/* default */.A.locals ? style/* default */.A.locals : undefined);
+
+
+       /* harmony default export */ const components_footer_footer_component = (footer_footer_component/* default */.A && footer_footer_component/* default */.A.locals ? footer_footer_component/* default */.A.locals : undefined);
+
+// EXTERNAL MODULE: ./node_modules/css-loader/dist/cjs.js!./src/app/components/navbar/navbar.component.css
+var navbar_navbar_component = __webpack_require__(3254);
+;// CONCATENATED MODULE: ./src/app/components/navbar/navbar.component.css
+
+      
+      
+      
+      
+      
+      
+      
+      
+      
+
+var navbar_component_options = {};
+
+navbar_component_options.styleTagTransform = (styleTagTransform_default());
+navbar_component_options.setAttributes = (setAttributesWithoutAttributes_default());
+
+      navbar_component_options.insert = insertBySelector_default().bind(null, "head");
+    
+navbar_component_options.domAPI = (styleDomAPI_default());
+navbar_component_options.insertStyleElement = (insertStyleElement_default());
+
+var navbar_component_update = injectStylesIntoStyleTag_default()(navbar_navbar_component/* default */.A, navbar_component_options);
+
+
+
+
+       /* harmony default export */ const components_navbar_navbar_component = (navbar_navbar_component/* default */.A && navbar_navbar_component/* default */.A.locals ? navbar_navbar_component/* default */.A.locals : undefined);
 
 ;// CONCATENATED MODULE: ./src/main.js
 
@@ -13716,25 +14027,24 @@ var style_update = injectStylesIntoStyleTag_default()(style/* default */.A, styl
 
 
 
+customElements.define("my-navbar", NavbarComponent);
 
+customElements.define("my-footer", FooterComponent);
+
+//import "./app/styles/style.css";
 
 
 const outlet = document.querySelector("#content-outlet");
 const router = new Router(outlet);
-router
-  .register("", {
-    component: WelcomeComponent,
-  })
-  .register("welcome", {
-    component: WelcomeComponent,
-  })
-  .register("game", {
-    component: GameComponent,
-  })
-  .register("score", {
-    component: ScoreComponent,
-  });
-
+router.register("", {
+  component: WelcomeComponent
+}).register("welcome", {
+  component: WelcomeComponent
+}).register("game", {
+  component: GameComponent
+}).register("score", {
+  component: ScoreComponent
+});
 })();
 
 /******/ })()
